@@ -1,24 +1,27 @@
 <h1 align="center">Hi 👋, I'm Hadia Imran</h1>
 <h3 align="center">🌟 Devsinc Campus Ambassador | Aspiring MERN Stack Developer 🌟</h3>
 
-💫 **About Me:**
-- 🔭 I’m currently working as a **Campus Ambassador at Devsinc**
-- 🌱 I’m currently learning **Frontend Web Development & Backend Fundamentals**
-- 👯 I’m looking to collaborate on **Web Development & Open Source Projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, C, C++, MongoDB, MERN Stack**
-- 📫 How to reach me **hadiaimran730@gmail.com**
-- ⚡ Fun fact: *I love exploring tech while keeping things creative & fun*
+💫 **About Me:**  
+- 🔭 I’m currently working as a **Campus Ambassador at Devsinc**  
+- 🌱 I’m currently learning **Frontend Web Development & Backend Fundamentals**  
+- 👯 I’m looking to collaborate on **Web Development & Open Source Projects**  
+- 💬 Ask me about **HTML, CSS, JavaScript, C, C++, MongoDB, MERN Stack**  
+- 📫 How to reach me **hadiaimran730@gmail.com**  
+- ⚡ Fun fact: *I love exploring tech while keeping things creative & fun*  
 
----
+<hr style="border:1px solid #ccc">
 
 🌐 **Socials:**  
 <p align="center">
-<a href="https://www.linkedin.com/in/hadia-imran-844438285" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/hadiaimran1090" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-<a href="mailto:hadiaimran730@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hadia-imran-844438285" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:hadiaimran730@gmail.com" target="blank">
+<img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white" />
+</a>
 </p>
 
----
+<hr style="border:1px solid #ccc">
 
 💻 **Tech Stack:**  
 <p align="center">
@@ -44,7 +47,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </p>
 
----
+<hr style="border:1px solid #ccc">
 
 📊 **GitHub Stats:**  
 <p align="center">
@@ -53,19 +56,18 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiaimran1090&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
----
+<hr style="border:1px solid #ccc">
 
 🏆 **GitHub Trophies**  
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=hadiaimran1090&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
----
+<hr style="border:1px solid #ccc">
 
-🚀 **Top Repositories**  
+🚀 **Top Contributed Repositories**  
 <p align="center">
 <a href="https://github.com/hadiaimran1090/project1" target="_blank">Project 1</a> &nbsp;|&nbsp;
 <a href="https://github.com/hadiaimran1090/project2" target="_blank">Project 2</a> &nbsp;|&nbsp;
 <a href="https://github.com/hadiaimran1090/project3" target="_blank">Project 3</a>
 </p>
-
