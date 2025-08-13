@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hadia Imran</h1>
-<h2 align="center">🌟 Devsinc Campus Ambassador | Aspiring MERN Stack Developer 🌟</h2>
+# Hi 👋, I'm Hadia Imran
+### 🌟 Devsinc Campus Ambassador | Aspiring MERN Stack Developer 🌟
 
 💫 **About Me:**  
 - 🔭 I’m currently working as a **Campus Ambassador at Devsinc**  
@@ -9,22 +9,28 @@
 - 📫 How to reach me **hadiaimran730@gmail.com**  
 - ⚡ Fun fact: *I love exploring tech while keeping things creative & fun*  
 
-<hr style="border:1px solid #ccc; margin:10px 0;">
+---
 
 🌐 **Socials:**  
-<p align="center">
-<a href="https://www.linkedin.com/in/hadia-imran-844438285" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-</a>
-<a href="https://instagram.com/hadiaimran1090" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-</a>
-<a href="mailto:hadiaimran730@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white" />
-</a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/hadia-imran-844438285) | [Instagram](https://instagram.com/hadiaimran1090) | [Gmail](mailto:hadiaimran730@gmail.com)
 
-<hr style="border:1px solid #ccc; margin:10px 0;">
+---
+
+💻 **Tech Stack:**  
+C, C++, HTML5, CSS3, JavaScript, React, Node.js, Express.js, MongoDB, PHP, WordPress, MySQL, Oracle, SQL Server, Apache, Netlify, Vercel, Canva, Git, GitHub
+
+---
+
+📊 **GitHub Stats:**  
+![Hadia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadiaimran1090&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=hadiaimran1090&theme=radical&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hadiaimran1090&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+🔝 **Top Contributed Repo:**  
+[Project1](https://github.com/hadiaimran1090/Project1) | [Project2](https://github.com/hadiaimran1090/Project2) | [Project3](https://github.com/hadiaimran1090/Project3)
+
 
 💻 **Tech Stack:**  
 <p align="center">
@@ -50,25 +56,5 @@
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<hr style="border:1px solid #ccc; margin:10px 0;">
 
-📊 **GitHub Stats & Top Repos:**  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hadiaimran1090&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hadiaimran1090&theme=radical&hide_border=false" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiaimran1090&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
 
-🚀 **Top Contributed Repositories**  
-<p align="center">
-<a href="https://github.com/hadiaimran1090/Project1" target="_blank">Project1</a> &nbsp;|&nbsp;
-<a href="https://github.com/hadiaimran1090/Project2" target="_blank">Project2</a> &nbsp;|&nbsp;
-<a href="https://github.com/hadiaimran1090/Project3" target="_blank">Project3</a>
-</p>
-
-<hr style="border:1px solid #ccc; margin:10px 0;">
-
-🏆 **GitHub Trophies:**  
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hadiaimran1090&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
