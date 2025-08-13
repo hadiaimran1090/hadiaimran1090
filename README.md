@@ -12,8 +12,10 @@
 
 
 🌐 **Socials:**  
-[LinkedIn](https://www.linkedin.com/in/hadia-imran-844438285) | [Instagram](https://instagram.com/hadiaimran1090) | [Gmail](mailto:hadiaimran730@gmail.com)
-
+<p align="left">
+<a href="https://www.linkedin.com/in/hadia-imran-844438285" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+<a href="mailto:hadiaimran730@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white" /></a>
+</p>
 
 💻 **Tech Stack:**  
 <p align="center">
