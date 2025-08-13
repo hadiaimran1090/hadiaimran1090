@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hadia Imran</h1>
 <h3 align="center">🌟 Devsinc Campus Ambassador | Aspiring MERN Stack Developer 🌟</h3>
 
----
 
 ## 💫 About Me
 - 🔭 Currently working as **Campus Ambassador at Devsinc**  
@@ -11,7 +10,6 @@
 - 📫 Reach me at **hadiaimran730@gmail.com**  
 - ⚡ Fun fact: *I love exploring tech while keeping things creative & fun*  
 
----
 
 ## 🌐 Connect with Me
 <p align="left">
