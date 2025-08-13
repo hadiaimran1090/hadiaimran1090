@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hadia Imran</h1>
 <h3 align="center">🌟 Devsinc Campus Ambassador | Aspiring MERN Stack Developer 🌟</h3>
 
-<hr style="border:1px solid #ccc; margin:10px 0;"> <!-- Thin light partition -->
 
-<h2>💫 About Me:</h2>
+<b>💫 About Me:</b>  
 - 🔭 I’m currently working as a **Campus Ambassador at Devsinc**  
 - 🌱 I’m currently learning **Frontend & Backend Development (MERN Stack)**  
 - 👯 I’m looking to collaborate on **Web Development & Open Source Projects**  
@@ -11,9 +10,8 @@
 - 📫 How to reach me **hadiaimran730@gmail.com**  
 - ⚡ Fun fact: *I love exploring tech while keeping things creative & fun*  
 
-<hr style="border:1px solid #ccc; margin:10px 0;">
 
-<h2>🌐 Socials:</h2>
+<b>🌐 Socials:</b>  
 <p align="left">
 <a href="https://www.linkedin.com/in/hadia-imran-844438285" target="blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
@@ -23,9 +21,8 @@
 </a>
 </p>
 
-<hr style="border:1px solid #ccc; margin:10px 0;">
 
-<h2>💻 Tech Stack:</h2>
+<b>💻 Tech Stack:</b>  
 <p align="center">
 <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -49,9 +46,8 @@
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<hr style="border:1px solid #ccc; margin:10px 0;">
 
-<h2>📊 GitHub Stats:</h2>
+<b>📊 GitHub Stats:</b>  
 ![Hadia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadiaimran1090&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=hadiaimran1090&theme=radical&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hadiaimran1090&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
