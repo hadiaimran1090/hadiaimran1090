@@ -9,27 +9,10 @@
 - 📫 How to reach me **hadiaimran730@gmail.com**  
 - ⚡ Fun fact: *I love exploring tech while keeping things creative & fun*  
 
----
+
 
 🌐 **Socials:**  
 [LinkedIn](https://www.linkedin.com/in/hadia-imran-844438285) | [Instagram](https://instagram.com/hadiaimran1090) | [Gmail](mailto:hadiaimran730@gmail.com)
-
----
-
-💻 **Tech Stack:**  
-C, C++, HTML5, CSS3, JavaScript, React, Node.js, Express.js, MongoDB, PHP, WordPress, MySQL, Oracle, SQL Server, Apache, Netlify, Vercel, Canva, Git, GitHub
-
----
-
-📊 **GitHub Stats:**  
-![Hadia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadiaimran1090&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=hadiaimran1090&theme=radical&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hadiaimran1090&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-🔝 **Top Contributed Repo:**  
-[Project1](https://github.com/hadiaimran1090/Project1) | [Project2](https://github.com/hadiaimran1090/Project2) | [Project3](https://github.com/hadiaimran1090/Project3)
 
 
 💻 **Tech Stack:**  
@@ -57,4 +40,10 @@ C, C++, HTML5, CSS3, JavaScript, React, Node.js, Express.js, MongoDB, PHP, WordP
 </p>
 
 
+
+
+📊 **GitHub Stats:**  
+![Hadia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadiaimran1090&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=hadiaimran1090&theme=radical&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hadiaimran1090&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
