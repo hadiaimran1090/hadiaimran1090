@@ -2,7 +2,7 @@
 <h3 align="center">🌟 Devsinc Campus Ambassador | Aspiring MERN Stack Developer 🌟</h3>
 
 
-## 💫 About Me
+###💫 About Me
 - 🔭 Currently working as **Campus Ambassador at Devsinc**  
 - 🌱 Learning **Frontend & Backend Development (MERN Stack)**  
 - 👯 Looking to collaborate on **Web Development & Open Source Projects**  
@@ -21,7 +21,7 @@
   </a>
 </p>
 
----
+
 
 ## 💻 Tech Stack
 <p align="center">
@@ -47,7 +47,6 @@
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
 
 ## 📊 GitHub Stats
 <p align="center">
