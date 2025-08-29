@@ -1,6 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Hadia+Imran;Devsinc+Campus+Ambassador;Aspiring+MERN+Stack+Developer;Passionate+about+Web+Development" alt="Typing Animation" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Hadia Imran</h1>
 <h3 align="center">🌟 Devsinc Campus Ambassador | Aspiring MERN Stack Developer 🌟</h3>
-
 
 ### 💫 About Me
 - 🔭 Currently working as **Campus Ambassador at Devsinc**  
