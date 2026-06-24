@@ -2,11 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=9A4DFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Hadia+Imran" alt="Typing Animation" />
 </p>
 
-<h3 align="center">🌟 Devsinc Campus Ambassador | Aspiring MERN Stack Developer 🌟</h3>
+<h3 align="center">🌟 Devsinc Ex-Campus Ambassador | Aspiring MERN Stack Developer| Angentic and AI developer🌟</h3>
 
 ### 💫 About Me
-- 🔭 Currently working as **Campus Ambassador at Devsinc**  
-- 🌱 Learning **Frontend & Backend Development (MERN Stack)**  
+- 🔭  **Ex-Campus Ambassador at Devsinc**  
+- 🌱 Learning **Frontend & Backend Development (MERN Stack)**
+- 🌱 Learning **Agentic and AI Developer**  
 - 👯 Looking to collaborate on **Web Development & Open Source Projects**  
 - 💬 Ask me about **HTML, CSS, JavaScript, C, C++, MongoDB, MERN Stack**  
 - 📫 Reach me at **hadiaimran730@gmail.com**  
